@@ -1,0 +1,163 @@
+policyId,entity,action,data
+1,we,collect,pii
+2,third party,collect,pii
+3,we,not_collect,email address
+4,we,collect,email address
+5,we,collect,person name
+6,we,collect,device identifier
+7,we,collect,non-pii
+8,advertising network,not_collect,pii
+9,third party,collect,information about you
+10,we,collect,demographic information
+11,we,not_collect,pii
+12,we,collect,technical information
+13,we,collect,profile information
+14,we,collect,usage information
+15,third party,not_collect,pii
+16,we,collect,phone number
+17,we,collect,contact information
+18,we,collect,geographical location
+19,subsidiary,collect,pii
+20,we,collect,information about you
+21,we,collect,device information
+22,we,collect,network information
+23,third party,collect,geographical location
+24,we,collect,identifier
+25,third party,collect,person name
+26,third party,collect,device identifier
+27,third party,collect,android id
+28,third party,collect,usage information
+29,google,collect,pii
+30,third party payment processor,collect,pii
+31,advertising network,collect,pii
+32,analytic provider,collect,pii
+33,we,collect,advertising identifier
+34,advertising network,collect,advertising identifier
+35,advertising network,collect,mac address
+36,advertising network,collect,device identifier
+37,advertising network,collect,information about you
+38,advertising network,collect,geographical location
+39,we,collect,user information
+40,third party,collect,technical information
+41,third party,not_collect,geographical location
+42,third party,not_collect,phone number
+43,third party,collect,phone number
+44,subsidiary,collect,information about you
+45,advertising network,collect,usage information
+46,analytic provider,collect,usage information
+47,applovin,collect,usage information
+48,applovin,collect,user information
+49,we,collect,android id
+50,google analytic,collect,geographical location
+51,firebase,collect,geographical location
+52,facebook,collect,geographical location
+53,third party,collect,non-pii
+54,twitter,collect,information about you
+55,third party,collect,profile information
+56,we,not_collect,geographical location
+57,third party,collect,user information
+58,we,collect,account information
+59,analytic provider,collect,device identifier
+60,third party,collect,contact information
+61,third party,collect,email address
+62,we,collect,mac address
+63,google analytic,collect,person name
+64,advertising network,collect,non-pii
+65,advertising network,not_collect,information about you
+66,advertising network,not_collect,geographical location
+67,advertising network,collect,demographic information
+68,content provider,collect,phone number
+69,third party payment processor,collect,phone number
+70,third party payment processor,collect,person name
+71,content provider,collect,person name
+72,fyber,collect,pii
+73,third party,collect,demographic information
+74,microsoft,collect,pii
+75,branch,collect,account information
+76,third party,collect,account information
+77,branch,collect,pii
+78,facebook,collect,pii
+79,facebook,collect,account information
+80,we,not_collect,identifier
+81,we,not_collect,person name
+82,google analytic,collect,user information
+83,google,collect,advertising identifier
+84,third party,collect,device information
+85,third party,collect,advertising identifier
+86,advertising network,collect,device information
+87,third party,collect,identifier
+88,advertising network,collect,identifier
+89,advertising network,collect,technical information
+90,we,collect,registration information
+91,subsidiary,collect,non-pii
+92,third party,not_collect,email address
+93,analytic provider,collect,contact information
+94,analytic provider,collect,non-pii
+95,google analytic,collect,contact information
+96,google analytic,collect,non-pii
+97,third party,not_collect,non-pii
+98,third party,not_collect,person name
+99,sdk,collect,geographical location
+100,google,collect,customer information
+101,we,not_collect,non-pii
+102,instagram,collect,pii
+103,google analytic,collect,information about you
+104,facebook,collect,profile information
+105,we,collect,area code
+106,advertising network,collect,area code
+107,we,not_collect,phone number
+108,social network,collect,information about you
+109,we,collect,serial number
+110,analytic provider,collect,user information
+111,social network,collect,pii
+112,social network,collect,identifier
+113,social network,collect,usage information
+114,advertising network,not_collect,contact information
+115,advertising network,not_collect,person name
+116,we,collect,imei
+117,google ads,collect,device identifier
+118,google,collect,geographical location
+119,we,collect,photo metadata
+120,we,not_collect,user information
+121,advertising network,collect,email address
+122,sdk,collect,pii
+123,third party,not_collect,contact information
+124,advertising network,collect,contact information
+125,we,collect,customer information
+126,third party,collect,customer information
+127,appsflyer,not_collect,pii
+128,social network,collect,user information
+129,advertising network,collect,person name
+130,advertising network,collect,phone number
+131,amazon,collect,pii
+132,content provider,collect,information about you
+133,analytic provider,collect,network information
+134,google,collect,information about you
+135,social network,collect,non-pii
+136,we,not_collect,contact information
+137,twitter,collect,phone number
+138,twitter,collect,geographical location
+139,google,collect,profile information
+140,twitter,collect,profile information
+141,google,collect,person name
+142,twitter,collect,email address
+143,google,collect,phone number
+144,google,collect,email address
+145,twitter,collect,person name
+146,we,collect,sim serial number
+147,we,not_collect,device information
+148,analytic provider,collect,technical information
+149,social network,collect,device information
+150,third party,not_collect,user information
+151,we,not_collect,information about you
+152,we,collect,billing information
+153,google,not_collect,person name
+154,google,not_collect,email address
+155,third party,collect,mac address
+156,analytic provider,collect,advertising identifier
+157,facebook,collect,person name
+158,subsidiary,collect,user information
+159,cuebiq,collect,geographical location
+160,facebook,collect,email address
+161,subsidiary,collect,customer information
+162,we,not_collect,device identifier

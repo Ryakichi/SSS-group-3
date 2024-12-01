@@ -1,0 +1,174 @@
+flowId,flowEntity,flowData
+1,unity,imei
+2,flurry,advertising identifier
+3,flurry,android id
+4,facebook,advertising identifier
+5,amplitude,advertising identifier
+6,unity,android id
+7,adjust,advertising identifier
+8,applifier,advertising identifier
+9,amplitude,geographical location
+10,amplitude,android id
+11,crashlytics,advertising identifier
+12,crashlytics,android id
+13,startapp,router ssid
+14,startapp,mac address
+15,startapp,advertising identifier
+16,kochava,advertising identifier
+17,appsflyer,advertising identifier
+18,unity,advertising identifier
+19,we,advertising identifier
+20,google,advertising identifier
+21,applovin,advertising identifier
+22,mopub,advertising identifier
+23,google ads,advertising identifier
+24,google,imei
+25,google,phone number
+26,google,serial number
+27,google,email address
+28,we,android id
+29,tapjoy,advertising identifier
+30,tapjoy,android id
+31,we,imei
+32,appsflyer,imei
+33,appsflyer,android id
+34,sponsorpay,advertising identifier
+35,chartboost,advertising identifier
+36,chartboost,android id
+37,vungle,advertising identifier
+38,adcolony,advertising identifier
+39,fyber,advertising identifier
+40,hyprmx,advertising identifier
+41,heyzap,advertising identifier
+42,mopub,geographical location
+43,branch,advertising identifier
+44,branch,android id
+45,we,geographical location
+46,du,android id
+47,segment,android id
+48,unity,mac address
+49,localytics,serial number
+50,localytics,android id
+51,pubnative,advertising identifier
+52,localytics,advertising identifier
+53,corona,android id
+54,appnext,advertising identifier
+55,revmob,advertising identifier
+56,tenjin,advertising identifier
+57,smaato,advertising identifier
+58,we,serial number
+59,appbrain sdk,advertising identifier
+60,ironsource,advertising identifier
+61,applifier,android id
+62,umeng,mac address
+63,firebase,android id
+64,gameanalytics,advertising identifier
+65,fyber,android id
+66,sponsorpay,android id
+67,adcolony,android id
+68,tapjoy,imei
+69,localytics,router ssid
+70,tappx,android id
+71,mobfox,android id
+72,silvermob,android id
+73,startapp,geographical location
+74,mixpanel,android id
+75,amazon ads,advertising identifier
+76,we,phone number
+77,google,geographical location
+78,segment,router ssid
+79,appsflyer,router ssid
+80,taplytics,serial number
+81,taplytics,android id
+82,leanplum,android id
+83,we,mac address
+84,ironsource,android id
+85,google analytic,advertising identifier
+86,flurry,geographical location
+87,inmobi,advertising identifier
+88,mopub,android id
+89,pollfish,geographical location
+90,pollfish,advertising identifier
+91,pollfish,android id
+92,amazon ads,serial number
+93,crashlytics,router ssid
+94,crashlytics,serial number
+95,appsee,serial number
+96,appsee,android id
+97,google analytic,android id
+98,mobfox,advertising identifier
+99,airpush,advertising identifier
+100,tappx,advertising identifier
+101,smart adserver,advertising identifier
+102,corona,advertising identifier
+103,startapp,android id
+104,mobpartner,imei
+105,mobpartner,advertising identifier
+106,mobpartner,android id
+107,appodeal,advertising identifier
+108,google,gsfid
+109,we,email address
+110,smaato,geographical location
+111,facebook,router ssid
+112,appnext,geographical location
+113,appnext,android id
+114,openx,geographical location
+115,openx,android id
+116,silvermob,geographical location
+117,google ads,geographical location
+118,google ads,android id
+119,tappx,geographical location
+120,google,android id
+121,outbrain,router ssid
+122,vungle,geographical location
+123,vungle,android id
+124,cuebiq,advertising identifier
+125,kochava,mac address
+126,kochava,application instal
+127,kochava,android id
+128,taboola,advertising identifier
+129,openx,advertising identifier
+130,leanplum,advertising identifier
+131,corona,imei
+132,chartboost,imei
+133,adcolony,imei
+134,fyber,imei
+135,new relic mobile,geographical location
+136,we,gsfid
+137,umeng,serial number
+138,umeng,android id
+139,umeng,imei
+140,sponsorpay,imei
+141,inneractive,advertising identifier
+142,integral ad science,advertising identifier
+143,mixpanel,advertising identifier
+144,du,imei
+145,aerserv,geographical location
+146,aerserv,advertising identifier
+147,nexage,mac address
+148,nexage,geographical location
+149,nexage,advertising identifier
+150,ampiri,advertising identifier
+151,kidoz,advertising identifier
+152,airpush,imei
+153,airpush,geographical location
+154,airpush,android id
+155,tapdaq,advertising identifier
+156,upsight,android id
+157,adjust,android id
+158,moat,advertising identifier
+159,apsalar,advertising identifier
+160,amazon ads,android id
+161,taplytics,imei
+162,kochava,router ssid
+163,we,router ssid
+164,applovin,router ssid
+165,we,application instal
+166,amazon ads,geographical location
+167,we,sim serial number
+168,appsflyer,serial number
+169,gameanalytics,android id
+170,facebook,android id
+171,appnexus,android id
+172,webtrends mobile,android id
+173,verve,advertising identifier
